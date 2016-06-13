@@ -6,7 +6,7 @@ mod 'java',
   :git => 'git@github.com:trobert3/puppetDevModules.git',
   :branch => 'java'
 
-mod 'puppet-deploy',
-  :git => 'https://github.com/mkrakowitzer/puppet-deploy.git',
+mod 'puppet-archive',
+  :git => 'https://github.com/voxpupuli/puppet-archive.git',
   :branch => 'master'
 
