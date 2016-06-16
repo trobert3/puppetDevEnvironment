@@ -10,3 +10,7 @@ mod 'puppet-archive',
   :git => 'https://github.com/voxpupuli/puppet-archive.git',
   :branch => 'master'
 
+mod 'puppet-archive',
+  :git => 'https://github.com/voxpupuli/puppet-archive.git',
+  :branch => 'master'
+
